@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Tarek Bchir
 
-<h3 align="center">
-  🤖 Machine Learning &nbsp;·&nbsp; 📊 Data Analytics &nbsp;·&nbsp; 📈 Business Intelligence
-</h3>
+<p align="center">
+  <strong>🤖 Machine Learning &nbsp;·&nbsp; 📊 Data Analytics &nbsp;·&nbsp; 📈 Business Intelligence</strong>
+</p>
 
 <p align="center">
   <i>Software Developer · Computer Science Engineering Student</i>
@@ -20,39 +20,11 @@ I enjoy working with data, building machine learning solutions, creating meaning
 
 ## 🚀 Main Focus
 
-<table width="100%">
-  <tr>
-    <td width="33.33%" align="center" valign="top">
-
-### 🤖 Machine Learning
-
-Machine Learning  
-Artificial Intelligence  
-Data-driven solutions
-
-    </td>
-
-    <td width="33.33%" align="center" valign="top">
-
-### 📊 Data Analytics
-
-Data Analysis  
-Data Processing  
-Data Visualization
-
-    </td>
-
-    <td width="33.33%" align="center" valign="top">
-
-### 📈 Business Intelligence
-
-ETL · SSIS  
-Power BI  
-Business Insights
-
-    </td>
-  </tr>
-</table>
+| 🤖 Machine Learning | 📊 Data Analytics | 📈 Business Intelligence |
+|:---:|:---:|:---:|
+| **Machine Learning** | **Data Analysis** | **ETL · SSIS** |
+| Artificial Intelligence | Data Processing | Power BI |
+| Data-driven solutions | Data Visualization | Business Insights |
 
 ---
 
@@ -61,70 +33,62 @@ Business Insights
 ### 🤖 Machine Learning & Data
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square" height="24">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat-square" height="24">
-  <img src="https://img.shields.io/badge/Data_Analytics-2196F3?style=flat-square" height="24">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square">
+<img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat-square">
+<img src="https://img.shields.io/badge/Data_Analytics-2196F3?style=flat-square">
 </p>
 
 ### 📊 Business Intelligence & ETL
 
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="24">
-  <img src="https://img.shields.io/badge/ETL-4CAF50?style=flat-square" height="24">
-  <img src="https://img.shields.io/badge/SSIS-68217A?style=flat-square" height="24">
-  <img src="https://img.shields.io/badge/Data_Visualization-00897B?style=flat-square" height="24">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/ETL-4CAF50?style=flat-square">
+<img src="https://img.shields.io/badge/SSIS-68217A?style=flat-square">
+<img src="https://img.shields.io/badge/Data_Visualization-00897B?style=flat-square">
 </p>
 
 ### 💻 Programming & Development
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" height="24">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" height="24">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="24">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" height="24">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="24">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
 </p>
 
 <details>
-  <summary>➕ Other technologies</summary>
+<summary>➕ Other Technologies</summary>
 
-  <br>
+<br>
 
-  <strong>Databases:</strong> Cassandra · Neo4j · HBase
+**Databases:** Cassandra · Neo4j · HBase
 
-  <br><br>
+**Cloud:** Cloud Computing
 
-  <strong>Cloud:</strong> Cloud Computing
+**DevOps:** DevOps · Monitoring
 
-  <br><br>
+**Big Data:** Big Data Technologies
 
-  <strong>DevOps:</strong> DevOps · Monitoring
-
-  <br><br>
-
-  <strong>Big Data:</strong> Big Data technologies
-
-  <br><br>
-
-  <strong>APIs:</strong> REST APIs
+**APIs:** REST APIs
 
 </details>
 
@@ -132,148 +96,81 @@ Business Insights
 
 ## 📊 Data & BI
 
-### From raw data to meaningful insights
+### From Raw Data to Meaningful Insights
 
-<table width="100%">
-  <tr>
-    <td width="20%" align="center" valign="top">
+| 🗂️ Data Sources | 🔄 ETL / SSIS | ⚙️ Data Processing | 📊 Analytics | 📈 Power BI |
+|:---:|:---:|:---:|:---:|:---:|
+| Raw Data | Extract | Transform | Analyze | Visualize |
+| Databases | Clean | Process | Discover | Dashboards |
 
-🗂️
-
-<strong>Data Sources</strong>
-
-    </td>
-
-    <td width="20%" align="center" valign="top">
-
-🔄
-
-<strong>ETL / SSIS</strong>
-
-    </td>
-
-    <td width="20%" align="center" valign="top">
-
-⚙️
-
-<strong>Data Processing</strong>
-
-    </td>
-
-    <td width="20%" align="center" valign="top">
-
-📊
-
-<strong>Analytics</strong>
-
-    </td>
-
-    <td width="20%" align="center" valign="top">
-
-📈
-
-<strong>Power BI</strong>
-
-    </td>
-  </tr>
-</table>
+<br>
 
 <p align="center">
-  <strong>Data → Transformation → Analysis → Visualization → Insights</strong>
+
+**🗂️ Data Sources → 🔄 ETL → ⚙️ Processing → 📊 Analytics → 📈 Visualization**
+
 </p>
 
-I'm particularly interested in turning raw data into structured information, meaningful analysis and clear visualizations that can support decision-making.
+I'm particularly interested in turning raw data into **structured information, meaningful analysis and clear visualizations** that can support decision-making.
 
 ---
 
 ## 🚀 What I'm Building & Learning
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
+| 🤖 Machine Learning | 📊 Data & BI |
+|:---:|:---:|
+| **Machine Learning Projects** | **Data Analytics** |
+| Artificial Intelligence | ETL Workflows |
+| Data-driven Solutions | Power BI Dashboards |
+| Predictive Models | Business Insights |
 
-### 🤖 Machine Learning
-
-Machine Learning projects
-
-Artificial Intelligence
-
-Data-driven solutions
-
-    </td>
-
-    <td width="50%" valign="top">
-
-### 📊 Data & BI
-
-Data Analytics
-
-ETL workflows
-
-Power BI dashboards
-
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-### ⚙️ Software Development
-
-Backend applications
-
-REST APIs
-
-Full-Stack development
-
-    </td>
-
-    <td width="50%" valign="top">
-
-### ☁️ Technologies
-
-Cloud Computing
-
-DevOps
-
-Big Data
-
-    </td>
-  </tr>
-</table>
+| ⚙️ Software Development | ☁️ Technologies |
+|:---:|:---:|
+| **Backend Applications** | **Cloud Computing** |
+| REST APIs | DevOps |
+| Full-Stack Development | Big Data |
+| Software Engineering | Data Technologies |
 
 ---
 
 ## 🎓 Education
 
-### Engineering Degree in Computer Science
+### 🎓 Engineering Degree in Computer Science
 
 **ESPRIT — Tunisia**  
-2024 – Present
+`2024 – Present`
 
-### Bachelor's Degree in Software Engineering and Information Science
+### 🎓 Bachelor's Degree in Software Engineering and Information Science
 
 **Higher School of Science and Technology — Hammam Sousse**  
-2021 – 2024
+`2021 – 2024`
 
 ---
 
 ## 📫 Let's Connect
 
-<p>
-  <a href="mailto:bchir.tarek@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="27">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/tarek-bchir/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="27">
-  </a>
-  &nbsp;
-  <a href="https://github.com/tarek-bchir">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="27">
-  </a>
+<p align="center">
+
+<a href="mailto:bchir.tarek@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/tarek-bchir/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/tarek-bchir">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </p>
 
+---
+
 <p align="center">
-  💡 <i>Learn. Build. Analyze. Improve.</i>
+  💡 <strong>Learn. Build. Analyze. Improve.</strong>
 </p>
