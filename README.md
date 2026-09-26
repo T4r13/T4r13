@@ -122,20 +122,6 @@ I'm particularly interested in turning raw data into **structured information, m
 
 ---
 
-## 🎓 Education
-
-### 🎓 Engineering Degree in Computer Science
-
-**ESPRIT — Tunisia**
-`2024 – Present`
-
-### 🎓 Bachelor's Degree in Software Engineering and Information Science
-
-**Higher School of Science and Technology — Hammam Sousse**
-`2021 – 2024`
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
