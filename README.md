@@ -24,7 +24,7 @@ I enjoy working with data, building machine learning solutions, creating meaning
 |:---:|:---:|:---:|
 | **Machine Learning** | **Data Analysis** | **ETL · SSIS** |
 | Artificial Intelligence | Data Processing | Power BI |
-| Data-driven solutions | Data Visualization | Business Insights |
+| Data-driven Solutions | Data Visualization | Business Insights |
 
 ---
 
@@ -103,12 +103,8 @@ I enjoy working with data, building machine learning solutions, creating meaning
 | Raw Data | Extract | Transform | Analyze | Visualize |
 | Databases | Clean | Process | Discover | Dashboards |
 
-<br>
-
 <p align="center">
-
-**🗂️ Data Sources → 🔄 ETL → ⚙️ Processing → 📊 Analytics → 📈 Visualization**
-
+  <strong>🗂️ Data Sources → 🔄 ETL → ⚙️ Processing → 📊 Analytics → 📈 Visualization</strong>
 </p>
 
 I'm particularly interested in turning raw data into **structured information, meaningful analysis and clear visualizations** that can support decision-making.
@@ -117,19 +113,67 @@ I'm particularly interested in turning raw data into **structured information, m
 
 ## 🚀 What I'm Building & Learning
 
-| 🤖 Machine Learning | 📊 Data & BI |
-|:---:|:---:|
-| **Machine Learning Projects** | **Data Analytics** |
-| Artificial Intelligence | ETL Workflows |
-| Data-driven Solutions | Power BI Dashboards |
-| Predictive Models | Business Insights |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-| ⚙️ Software Development | ☁️ Technologies |
-|:---:|:---:|
-| **Backend Applications** | **Cloud Computing** |
-| REST APIs | DevOps |
-| Full-Stack Development | Big Data |
-| Software Engineering | Data Technologies |
+### 🤖 Machine Learning
+
+**Machine Learning Projects**
+
+Artificial Intelligence
+
+Data-driven Solutions
+
+Predictive Models
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Data & BI
+
+**Data Analytics**
+
+ETL Workflows
+
+Power BI Dashboards
+
+Business Insights
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Software Development
+
+**Backend Applications**
+
+REST APIs
+
+Full-Stack Development
+
+Software Engineering
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ Technologies
+
+**Cloud Computing**
+
+DevOps
+
+Big Data
+
+Data Technologies
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -155,16 +199,10 @@ I'm particularly interested in turning raw data into **structured information, m
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/tarek-bchir/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/tarek-bchir">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
