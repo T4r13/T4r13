@@ -113,67 +113,12 @@ I'm particularly interested in turning raw data into **structured information, m
 
 ## 🚀 What I'm Building & Learning
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Machine Learning
-
-**Machine Learning Projects**
-
-Artificial Intelligence
-
-Data-driven Solutions
-
-Predictive Models
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Data & BI
-
-**Data Analytics**
-
-ETL Workflows
-
-Power BI Dashboards
-
-Business Insights
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Software Development
-
-**Backend Applications**
-
-REST APIs
-
-Full-Stack Development
-
-Software Engineering
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☁️ Technologies
-
-**Cloud Computing**
-
-DevOps
-
-Big Data
-
-Data Technologies
-
-</td>
-</tr>
-</table>
+| 🤖 Machine Learning | 📊 Data & BI | ⚙️ Software Development | ☁️ Technologies |
+|:---|:---|:---|:---|
+| Machine Learning Projects | Data Analytics | Backend Applications | Cloud Computing |
+| Artificial Intelligence | ETL Workflows | REST APIs | DevOps |
+| Data-driven Solutions | Power BI Dashboards | Full-Stack Development | Big Data |
+| Predictive Models | Business Insights | Software Engineering | Data Technologies |
 
 ---
 
@@ -181,12 +126,12 @@ Data Technologies
 
 ### 🎓 Engineering Degree in Computer Science
 
-**ESPRIT — Tunisia**  
+**ESPRIT — Tunisia**
 `2024 – Present`
 
 ### 🎓 Bachelor's Degree in Software Engineering and Information Science
 
-**Higher School of Science and Technology — Hammam Sousse**  
+**Higher School of Science and Technology — Hammam Sousse**
 `2021 – 2024`
 
 ---
@@ -194,17 +139,12 @@ Data Technologies
 ## 📫 Let's Connect
 
 <p align="center">
-
-<a href="mailto:bchir.tarek@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/tarek-bchir/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
+  <a href="mailto:bchir.tarek@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/tarek-bchir/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
